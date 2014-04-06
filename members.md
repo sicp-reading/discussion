@@ -3,31 +3,31 @@
 ### [@iriya_ufo](http://twitter.com/iriya_ufo)
 
 - 初めての "Hello, world"
-  - 大学一年生(Scheme) 
+  - 大学一年生(Scheme)
 - 好きな言語
-  - Ruby, Scheme 
+  - Ruby, Scheme
 - プログラミング以外の趣味
-  - アニメ 
+  - アニメ鑑賞(日常系とか学園物とか)
 - SICP への意気込み
   - やめないぞ!
 
 ### [@ayato_p](http://twitter.com/ayato_p)
 
 - 初めての "Hello, world"
-  - 中二(C) 
+  - 中二(C)
 - 好きな言語
-  - Scheme, Ruby 
+  - Scheme, Ruby
 - プログラミング以外の趣味
-  - ライブに行く 
+  - ライブに行く
 - SICP への意気込み
   - 強く生きる!
 
 ### [@naoiwata](http://twitter.com/naoiwata)
 
 - 初めての "Hello, world"
-  - 24 歳(Javascript) 
+  - 24 歳(Javascript)
 - 好きな言語
-  - Scheme, Python, Javascript 
+  - Scheme, Python, Javascript
 - プログラミング以外の趣味
   - 散歩, お菓子
 - SICP への意気込み
